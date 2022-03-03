@@ -1,0 +1,49 @@
+.rowDeNavbar {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+}
+.nav-link {
+    color: #7F7680;
+    font-size: 1.2em;
+}
+.nav-link:hover  {
+    color: #836686 !important;
+    font-weight: 700;
+    text-decoration: underline;
+}
+.nav-link:focus{
+    color: #836686 !important;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.nav-link.active {
+    text-decoration: underline;
+}
+
+.navbar{
+    /* height: 9.1875em; */
+    height: 7.4em;
+/*     width: 100vw; */
+}
+
+.navbar-brand {
+    color: black;
+    font-weight: 800;
+    font-size: 1.5em;
+    /* margin-left: 2.7em; */
+    margin-left: 7em;
+}
+
+.navbar-nav{
+    margin-right: 7.95em;
+}
+.navbar-nav a {
+    margin-right: 3em;
+}
+.container-fluid{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+}
